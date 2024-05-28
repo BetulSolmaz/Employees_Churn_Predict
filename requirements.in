@@ -1,7 +1,7 @@
-scikit-learn==1.4.2
+scikit-learn
 streamlit
 #plotly
 #seaborn
 #cufflinks
-xgboost==2.0.3
+xgboost
 skimpy==0.0.15
