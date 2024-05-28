@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import numpy as np
-from sklearn.compose import make_column_transformer
+from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OrdinalEncoder
 from sklearn.preprocessing import scale, StandardScaler
 from PIL import Image
