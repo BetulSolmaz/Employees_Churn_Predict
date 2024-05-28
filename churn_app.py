@@ -2,9 +2,9 @@ import streamlit as st
 import pickle
 import pandas as pd
 import numpy as np
-from sklearn.compose import ColumnTransformer
-from sklearn.preprocessing import OrdinalEncoder
-from sklearn.preprocessing import scale, StandardScaler
+#from sklearn.compose import ColumnTransformer
+#from sklearn.preprocessing import OrdinalEncoder
+#from sklearn.preprocessing import scale, StandardScaler
 from PIL import Image
 import plotly.express as px
 from joblib import dump, load
